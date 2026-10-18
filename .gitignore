@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+data_tabungan.json
+data_tabungan.json.tmp
+.coverage
